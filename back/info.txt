@@ -1,0 +1,49 @@
+##node.js 
+vem do chrome motor v8
+consegue ler em js e retornar resultados
+
+hoje funciona stand alone
+node é a v8 do chrome e colocou do lado servidor
+
+##package json 
+cuida das dependências
+
+##express
+microframework pro node 
+lida com rotas
+
+##yarn.lock
+cache das info das dependencias das dependencias
+
+##nodemon
+torna automático a atualização do servidor
+
+##mongodb
+não relacional, mais facil (eschema free), mais performático
+porém tem problema com relacionamento mui complexos
+
+##mongoose
+ODM
+ferramenta que facilita o acessoa bd utilizando unicamente sintaxe js
+
+#model é abstração da estrutura/table para determinado
+tipo de dentidade
+
+#axios
+##trnspilaçãp
+pega v atualizada que nav não entende
+utiliza-se webpack
+
+#protocolo web socket - socket io
+transição de msg de back para front end
+em tempo real
+
+COMANDOS:
+yarn init -y
+yarn add express
+yarn add nodemon -D // -D => apenas para desenvolvimento
+yarn add mongoose
+yarn add axios
+yarn add cors
+create-react-app
+yarn add socket.io

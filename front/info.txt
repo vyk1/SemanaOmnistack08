@@ -1,0 +1,12 @@
+COMANDOS:
+yarn add react-router-dom
+npx react-native init tindev OU yarn global add react-native-cli
+yarn start
+react-native run-android
+yarn add socket.io-client
+
+##metro bundler
+permite ler js
+fica observando os arquivos conforme se altera
+
+##socket io client

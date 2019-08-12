@@ -1,0 +1,17 @@
+COMANDOS
+yarn add react-navigation react-native-gesture-handler react-native-reanimated
+yarn add axios
+yarn add @react-native-community/async-storage
+yarn add socket.io-client
+
+
+#asyncstorage
+localstorage da web
+chave-valor
+
+#gesture handler
+->gestos (tipo arrastar pro lado para ativar menu)
+->precisa de algo mais:
+-->https://kmagiera.github.io/react-native-gesture-handler/docs/getting-started.html
+
+#reanimated transições animadas
